@@ -15,7 +15,7 @@ mkdir -p ~/movewithit_ws/src && cd ~/movewithit_ws/src
 ```
 *Cloning the package*
 ```
-git clone https://github.com/kalashjain23/move_with_it.git
+git clone https://github.com/AlapatiChandrasekhar/gesture_controlled_robotic_arm.git
 cd ~/movewithit_ws
 ```
 *Installing the dependencies and building the workspace*
@@ -33,7 +33,4 @@ source ~/ws_moveit/install/setup.bash
 # You're all set to go! Run the launch file
 ros2 launch move_with_it main.launch.py
 ```  
-*Now you can enjoy controlling the robotic arm with just your gestures!! (ik it's fun) :D*
-
-https://github.com/kalashjain23/move_with_it/assets/97672680/5036ec3a-714d-4d11-baaf-d3dcf45c4306
 
