@@ -25,7 +25,7 @@ colcon build
 ```
 ## **How to use**
 ```
-# source the workspaces
+# source the workspaceS
 source ~/movewithit_ws/install/setup.bash
 source ~/ws_moveit/install/setup.bash       
 # 'ws_moveit' is the workspace created during the installation of moveit
